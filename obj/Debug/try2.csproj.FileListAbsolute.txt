@@ -1,0 +1,10 @@
+E:\works\Program\PG1\try2_2\bin\Debug\try2.exe.config
+E:\works\Program\PG1\try2_2\bin\Debug\try2.exe
+E:\works\Program\PG1\try2_2\bin\Debug\try2.pdb
+E:\works\Program\PG1\try2_2\obj\Debug\try2.csprojResolveAssemblyReference.cache
+E:\works\Program\PG1\try2_2\obj\Debug\try2.Form1.resources
+E:\works\Program\PG1\try2_2\obj\Debug\try2.Form2.resources
+E:\works\Program\PG1\try2_2\obj\Debug\try2.Properties.Resources.resources
+E:\works\Program\PG1\try2_2\obj\Debug\try2.csproj.GenerateResource.Cache
+E:\works\Program\PG1\try2_2\obj\Debug\try2.exe
+E:\works\Program\PG1\try2_2\obj\Debug\try2.pdb
